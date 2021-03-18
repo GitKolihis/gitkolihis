@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Architecture, RestFul API, Mobile and Web Developments
 - 🌱 I’m currently learning Laravel API Development
 - 💞️ I’m looking to collaborate on Innovation Ideas
-- 📫 How to reach me WhatsApp: +23468809581, adelaniolanrewajuisrael@gmail.com
+- 📫 How to reach me WhatsApp: +2348168809581, adelaniolanrewajuisrael@gmail.com
 
 <!---
 GitKolihis/GitKolihis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
