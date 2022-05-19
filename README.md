@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GitKolihis
-- 👀 I’m interested in Software Architecture, RestFul API, Mobile and Web Developments
-- 🌱 I’m currently learning Laravel API Development
+- 👀 I’m interested in Software Architecture, RestFul API, Mobile and Web Developments, Embedded System Development
+- 🌱 I’m currently working on RestFul API using Nodejs and MongoDB for various kinds of application development
 - 💞️ I’m looking to collaborate on Innovation Ideas
 - 📫 How to reach me WhatsApp: +2348168809581, adelaniolanrewajuisrael@gmail.com
 
