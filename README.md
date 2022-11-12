@@ -29,6 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitkolihis&show_icons=true&locale=en&layout=compact" alt="gitkolihis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitkolihis&show_icons=true&locale=en" alt="gitkolihis" /></p>
+<div>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitkolihis&show_icons=true&locale=en" alt="gitkolihis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gitkolihis&" alt="gitkolihis" /></p>
+  </div>
