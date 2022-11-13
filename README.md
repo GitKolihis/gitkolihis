@@ -33,4 +33,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gitkolihis&" alt="gitkolihis" />
   </div>
 <br />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitkolihis&show_icons=true&locale=en&layout=compact" alt="gitkolihis" /></p>
+<div class="row">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitkolihis&show_icons=true&locale=en&layout=compact" alt="gitkolihis" />
+  </div>
